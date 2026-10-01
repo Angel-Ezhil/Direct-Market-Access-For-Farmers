@@ -1,0 +1,6 @@
+{
+  "name": "Direct Market Access for Farmers",
+  "description": "From Farm to Home — Direct. Fair. Digital. A unified multi-role AgriTech marketplace connecting Farmers, Customers, Delivery Partners, and Admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
